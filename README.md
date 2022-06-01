@@ -8,7 +8,7 @@ Instructions:
 
 
 Coding Notes:
-- 'moves' is a global variable and is used 
+- 'moves' is a global variable
 - The "assign" function may accept upper or lower case inputs from the players
 - The "extent" function passes a True or False to test if the user input is within range
 - The "empty" function passes a True or False to test if there is a mark on the selected space
